@@ -71,7 +71,7 @@ The program handles:
 
 The circuit was designed and simulated using Proteus.
 
-![Circuit Schematic](schematic.png)
+![Circuit Schematic](Schematic.png)
 
 ## 🎥 Demo
 
