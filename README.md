@@ -73,6 +73,12 @@ The circuit was designed and simulated using Proteus.
 
 ![Circuit Schematic](schematic.png)
 
+## 🎥 Demo
+
+A screen recording demonstrating the working of the visitor counter is included below.
+
+[▶️ View Demo Video](Demo/visitor_counter_demo.mp4)
+
 ## Learning Outcomes
 
 This project provided hands-on experience with:
